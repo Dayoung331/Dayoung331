@@ -1,9 +1,20 @@
 ## Welcome to Dayoung's Github 👋
 
+---
+
+### About Me 🍀
+
+
+---
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dayoung331&show_icons=true&theme=radical" alt="Dayoung's GitHub stats" style="display: inline-block;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayoung331" alt="Top Langs" style="display: inline-block;" />
 </div>
+
+---
+
 
 <h3 align="center"> Main Field </h3>
 <div align=center> 
