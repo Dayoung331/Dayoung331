@@ -48,7 +48,9 @@
 
 <h3 align="center">Project</h3>
 <div align="center">
+  <a href="https://studuler.github.io/studuler_webpage/" target="_blank">
   <img src="https://img.shields.io/badge/STUDULER-4479A1?style=for-the-badge&logo=STUDULER&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/1822_PETMEETING-5FA04E?style=for-the-badge&logo=1822_PETMEETING&logoColor=white" />
 </div>
 
@@ -73,9 +75,17 @@
 
 <h3 align="center">Contact</h3>
 <div align="center">
-  <a href="mailto:pinga0331@gmail.com">
+  <a href="mailto:pinga0331@gmail.com" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/pinga0331@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/pinga0331@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail Badge"
+    />
+  </a>
+  <a href="https://www.instagram.com/more_n_further?igsh=dGwxenBobHg4Zmd0" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
+      alt="Instagram Badge"
+    />
   </a>
 </div>
 
